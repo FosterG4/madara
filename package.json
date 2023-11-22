@@ -47,7 +47,7 @@
     "vue-konva": "^2.1.7",
     "vue-observe-visibility": "^1.0.0",
     "vue-router": "^3.5.2",
-    "webpack": "^5.47.1"
+    "webpack": "^5.76.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
