@@ -19,7 +19,7 @@
     "apollo-link-context": "^1.0.20",
     "apollo-link-http": "^1.5.17",
     "apollo-server-express": "^2.24.0",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "bcrypt": "^5.0.1",
     "cheerio": "^1.0.0-rc.9",
     "cookie-parser": "~1.4.4",
